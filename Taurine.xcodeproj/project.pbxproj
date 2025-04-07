@@ -83,7 +83,7 @@
 		F1B78BBC27ED3FC600152952 /* ASN1Parser+IM4P.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B78BBA27ED3FC600152952 /* ASN1Parser+IM4P.swift */; };
 		F1B78BBE27ED400A00152952 /* kernelPatchfinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B78BBD27ED400A00152952 /* kernelPatchfinder.swift */; };
 		F1B78BEF27ED67FA00152952 /* LZSSDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B78BE927ED67F900152952 /* LZSSDecoder.swift */; };
-		F1FCE8EA27BFAC1800A199A2 /* org.coolstar.sileo_2.3_iphoneos-arm.deb in Resources */ = {isa = PBXBuildFile; fileRef = F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.3_iphoneos-arm.deb */; };
+		F1FCE8EA27BFAC1800A199A2 /* org.coolstar.sileo_2.5.1_iphoneos-arm.deb in Resources */ = {isa = PBXBuildFile; fileRef = F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.5.1_iphoneos-arm.deb */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -273,7 +273,7 @@
 		F1B78BBA27ED3FC600152952 /* ASN1Parser+IM4P.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ASN1Parser+IM4P.swift"; sourceTree = "<group>"; };
 		F1B78BBD27ED400A00152952 /* kernelPatchfinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kernelPatchfinder.swift; sourceTree = "<group>"; };
 		F1B78BE927ED67F900152952 /* LZSSDecoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LZSSDecoder.swift; sourceTree = "<group>"; };
-		F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.3_iphoneos-arm.deb */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "org.coolstar.sileo_2.3_iphoneos-arm.deb"; sourceTree = "<group>"; };
+		F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.5.1_iphoneos-arm.deb */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "org.coolstar.sileo_2.5.1_iphoneos-arm.deb"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -378,7 +378,7 @@
 				F15B3CE825F81719002C1D78 /* bootstrap.tar.gz */,
 				F18579FB2A92FDFE004AD2CD /* ctbypass.gz */,
 				F15B3CDA25F81661002C1D78 /* essential_0-4_iphoneos-arm.deb */,
-				F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.3_iphoneos-arm.deb */,
+				F1FCE8E927BFAC1800A199A2 /* org.coolstar.sileo_2.5.1_iphoneos-arm.deb */,
 				F15B3CF225F81749002C1D78 /* signcert.p12 */,
 				F15B3CD525F8164A002C1D78 /* tar.gz */,
 				F15B3CD625F8164B002C1D78 /* uicache.gz */,
@@ -777,7 +777,7 @@
 				F15B3CD825F8164B002C1D78 /* uicache.gz in Resources */,
 				F15B3CE925F81719002C1D78 /* bootstrap.tar.gz in Resources */,
 				F15B3CE025F8166C002C1D78 /* essential_0-4_iphoneos-arm.deb in Resources */,
-				F1FCE8EA27BFAC1800A199A2 /* org.coolstar.sileo_2.3_iphoneos-arm.deb in Resources */,
+				F1FCE8EA27BFAC1800A199A2 /* org.coolstar.sileo_2.5.1_iphoneos-arm.deb in Resources */,
 				F15B3CF325F81749002C1D78 /* signcert.p12 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
